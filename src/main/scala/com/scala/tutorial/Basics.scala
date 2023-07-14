@@ -30,4 +30,11 @@ object Basics extends App{
     else i * factorial(i - 1)
   }
   println(factorial(5))
+
+  //unit return type
+  //unit == void
+  //type of side effects
+  def unitReturningFunction() : Unit = {
+    println("side effect return type")
+  }
 }
