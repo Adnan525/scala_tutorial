@@ -1,0 +1,46 @@
+2023.11.15 13:06:36 INFO  Started: Metals version 1.1.0 in folders '/workspaces/scala_tutorial' for client Visual Studio Code 1.84.2.
+2023.11.15 13:06:37 WARN  Build server is not auto-connectable.
+2023.11.15 13:06:37 WARN  no build target for: /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 13:06:37 WARN  no build target for: /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/Playground.scala
+2023.11.15 13:06:37 WARN  no build target for: /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/Basics.scala
+2023.11.15 13:06:42 INFO  running '/usr/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8401892267309438221/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.11.15 13:06:43 WARN  no build target for: /workspaces/scala_tutorial/project/metals.sbt
+2023.11.15 13:06:43 WARN  no build target for: /workspaces/scala_tutorial/project/project/metals.sbt
+2023.11.15 13:06:43 INFO  skipping build import with status 'Started'
+2023.11.15 13:06:43 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.2  (this may take some time)...
+2023.11.15 13:06:54 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...
+2023.11.15 13:06:56 INFO  [info] welcome to sbt 1.9.2 (Microsoft Java 17.0.8.1)
+2023.11.15 13:07:02 INFO  [info] loading settings for project scala_tutorial-build-build from metals.sbt ...
+2023.11.15 13:07:03 INFO  [info] loading project definition from /workspaces/scala_tutorial/project/project
+2023.11.15 13:07:04 INFO  no build target found for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/Basics.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.11.15 13:07:08 INFO  time: code lens generation in 30s
+2023.11.15 13:07:08 INFO  time: code lens generation in 24s
+2023.11.15 13:07:09 INFO  [info] loading settings for project scala_tutorial-build from metals.sbt ...
+2023.11.15 13:07:09 INFO  [info] loading project definition from /workspaces/scala_tutorial/project
+2023.11.15 13:07:16 INFO  [success] Generated .bloop/scala_tutorial-build.json
+2023.11.15 13:07:16 INFO  [success] Total time: 7 s, completed Nov 15, 2023, 1:07:17 PM
+2023.11.15 13:07:18 INFO  [info] loading settings for project root from build.sbt ...
+2023.11.15 13:07:18 INFO  [info] set current project to scala_tutorial (in build file:/workspaces/scala_tutorial/)
+2023.11.15 13:07:21 INFO  [warn] scala-library-2.13.11-sources.jar no longer exists at /home/user/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11-sources.jar
+2023.11.15 13:07:22 INFO  [success] Generated .bloop/root-test.json
+2023.11.15 13:07:22 INFO  [success] Generated .bloop/root.json
+2023.11.15 13:07:22 INFO  [success] Total time: 3 s, completed Nov 15, 2023, 1:07:22 PM
+2023.11.15 13:07:22 INFO  time: ran 'sbt bloopInstall' in 39s
+2023.11.15 13:07:22 INFO  Attempting to connect to the build server...
+2023.11.15 13:07:22 INFO  Setting up current java home /usr/local/sdkman/candidates/java/current in /home/codespace/.bloop/bloop.json
+2023.11.15 13:07:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala_tutorial/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2023.11.15 13:07:36 INFO  Attempting to connect to the build server...
+2023.11.15 13:07:36 INFO  Bloop uses /usr/local/sdkman/candidates/java/current defined at /home/codespace/.bloop/bloop.json
+2023.11.15 13:07:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala_tutorial/project/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2023.11.15 13:07:37 INFO  time: Connected to build server in 15s
+2023.11.15 13:07:37 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.15 13:07:38 INFO  time: Imported build in 0.25s
+Nov 15, 2023 1:07:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2023.11.15 13:07:49 INFO  time: indexed workspace in 11s
+2023.11.15 13:07:50 INFO  compiling root (3 scala sources)
+2023.11.15 13:08:15 INFO  time: compiled root in 24s
+Nov 15, 2023 1:21:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+Nov 15, 2023 1:21:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[scala_tutorial-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[scala_tutorial-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'scala_tutorial-build' to '/workspaces/scala_tutorial/project/.bloop/scala_tutorial-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/scala_tutorial-build.json[0m

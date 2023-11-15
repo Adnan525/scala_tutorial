@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/tutorial_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/ObjectOrientation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/ObjectOrientation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Basics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Basics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Basics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Basics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/ObjectOrientation$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/ObjectOrientation$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/ObjectOrientation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/ObjectOrientation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Playground$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Playground$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/ObjectOrientation$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/ObjectOrientation$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/Basics$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/Basics$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/scala/tutorial/ObjectOrientation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/target/scala-2.12/classes/com/scala/tutorial/ObjectOrientation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
