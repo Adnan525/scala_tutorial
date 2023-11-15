@@ -1,4 +1,4 @@
- package com.scala.tutorial
+id: file://<WORKSPACE>/src/main/scala/com/scala/tutorial/ObjectOrientation.scala:[2564..2565) in Input.VirtualFile("file://<WORKSPACE>/src/main/scala/com/scala/tutorial/ObjectOrientation.scala", " package com.scala.tutorial
 
 object ObjectOrientation extends App{
   class Animal{
@@ -77,39 +77,15 @@ object ObjectOrientation extends App{
   Mysingleton(65) // equivalent to the above
   // the presence of the apply method allows to call the object as a function
 
-  // companion object
-  object Animal{ // companion object, can be applied to class or trait
-    // can access private fields of Animal class
-    // the singleton object and the class are different things
-    // factory method
-    def apply(x : Int) : Animal = new Animal
-  }
-
-  // case classes
-  case class Person(name : String, age : Int)
-  // Person is a companion object
-  val bob = Person("Bob", 54) // Person.apply("Bob", 54)
+  object 
 
 
-  // exceptions
-  try{
-    val x : String = null
-    x.length // this will throw a NullPointerException
-  } 
-  catch {
-    case e : Exception => "some faulty error message"
-  } 
-  finally {
-    // execute some code no matter what
-  }
-
-  // generics
-  // it's like arraylist can contain any type of object
-  abstract class MyList[T]{
-    def head : T
-    def tail : MyList[T]
-  }
-  val aList : List[Int] = List(1,2,3) // List.apply(1,2,3)
-  val first = aList.head
-  val rest = aList.tail 
 }
+")
+file://<WORKSPACE>/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+file://<WORKSPACE>/src/main/scala/com/scala/tutorial/ObjectOrientation.scala:83: error: expected identifier; obtained rbrace
+}
+^
+#### Short summary: 
+
+expected identifier; obtained rbrace

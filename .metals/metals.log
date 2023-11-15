@@ -165,3 +165,725 @@ WARNING: Unmatched cancel notification for request id 618
 2023.11.15 13:45:02 INFO  time: compiled root in 0.13s
 2023.11.15 13:45:03 INFO  compiling root (1 scala source)
 2023.11.15 13:45:03 INFO  time: compiled root in 0.13s
+2023.11.15 13:58:18 INFO  compiling root (1 scala source)
+2023.11.15 13:58:18 INFO  time: compiled root in 0.51s
+2023.11.15 13:59:54 INFO  compiling root (1 scala source)
+2023.11.15 13:59:54 INFO  time: compiled root in 0.62s
+Nov 15, 2023 1:59:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1018
+2023.11.15 14:00:00 INFO  compiling root (1 scala source)
+2023.11.15 14:00:00 INFO  time: compiled root in 0.47s
+2023.11.15 14:00:23 INFO  compiling root (1 scala source)
+2023.11.15 14:00:23 INFO  time: compiled root in 64ms
+Nov 15, 2023 2:01:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1114
+2023.11.15 14:01:20 INFO  compiling root (1 scala source)
+2023.11.15 14:01:20 INFO  time: compiled root in 89ms
+2023.11.15 14:01:23 INFO  compiling root (1 scala source)
+2023.11.15 14:01:23 INFO  time: compiled root in 57ms
+2023.11.15 14:01:28 INFO  compiling root (1 scala source)
+2023.11.15 14:01:28 INFO  time: compiled root in 0.43s
+2023.11.15 14:02:29 INFO  compiling root (1 scala source)
+2023.11.15 14:02:29 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:02:29 INFO  time: compiled root in 0.73s
+2023.11.15 14:02:35 INFO  compiling root (1 scala source)
+2023.11.15 14:02:35 INFO  time: compiled root in 0.41s
+2023.11.15 14:02:39 INFO  compiling root (1 scala source)
+2023.11.15 14:02:39 INFO  time: compiled root in 0.83s
+2023.11.15 14:02:43 INFO  compiling root (1 scala source)
+2023.11.15 14:02:43 INFO  time: compiled root in 0.42s
+2023.11.15 14:02:48 INFO  compiling root (1 scala source)
+2023.11.15 14:02:48 INFO  time: compiled root in 0.52s
+2023.11.15 14:02:50 INFO  compiling root (1 scala source)
+2023.11.15 14:02:50 INFO  time: compiled root in 0.45s
+2023.11.15 14:02:53 INFO  compiling root (1 scala source)
+2023.11.15 14:02:53 INFO  time: compiled root in 0.43s
+Nov 15, 2023 2:03:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1261
+2023.11.15 14:03:11 INFO  compiling root (1 scala source)
+2023.11.15 14:03:11 INFO  time: compiled root in 0.43s
+2023.11.15 14:03:19 INFO  compiling root (1 scala source)
+2023.11.15 14:03:19 INFO  time: compiled root in 0.4s
+2023.11.15 14:03:22 INFO  compiling root (1 scala source)
+2023.11.15 14:03:22 INFO  time: compiled root in 0.5s
+2023.11.15 14:03:29 INFO  compiling root (1 scala source)
+2023.11.15 14:03:29 INFO  time: compiled root in 0.38s
+2023.11.15 14:03:39 INFO  compiling root (1 scala source)
+2023.11.15 14:03:39 INFO  time: compiled root in 0.37s
+2023.11.15 14:03:53 INFO  compiling root (1 scala source)
+2023.11.15 14:03:53 INFO  time: compiled root in 0.48s
+2023.11.15 14:03:56 INFO  compiling root (1 scala source)
+2023.11.15 14:03:56 INFO  time: compiled root in 0.4s
+2023.11.15 14:04:06 INFO  compiling root (1 scala source)
+2023.11.15 14:04:06 INFO  time: compiled root in 0.72s
+2023.11.15 14:04:09 INFO  compiling root (1 scala source)
+2023.11.15 14:04:09 INFO  time: compiled root in 0.38s
+2023.11.15 14:04:14 INFO  compiling root (1 scala source)
+2023.11.15 14:04:14 INFO  time: compiled root in 0.41s
+Nov 15, 2023 2:04:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1456
+2023.11.15 14:04:16 INFO  compiling root (1 scala source)
+2023.11.15 14:04:16 INFO  time: compiled root in 0.47s
+2023.11.15 14:04:21 INFO  compiling root (1 scala source)
+2023.11.15 14:04:21 INFO  time: compiled root in 0.52s
+2023.11.15 14:04:24 INFO  compiling root (1 scala source)
+2023.11.15 14:04:24 INFO  time: compiled root in 0.39s
+Nov 15, 2023 2:04:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1502
+2023.11.15 14:04:39 INFO  compiling root (1 scala source)
+2023.11.15 14:04:39 INFO  time: compiled root in 0.41s
+2023.11.15 14:04:42 INFO  compiling root (1 scala source)
+2023.11.15 14:04:42 INFO  time: compiled root in 0.5s
+2023.11.15 14:05:39 INFO  compiling root (1 scala source)
+2023.11.15 14:05:39 INFO  time: compiled root in 0.45s
+2023.11.15 14:05:49 INFO  compiling root (1 scala source)
+2023.11.15 14:05:49 INFO  time: compiled root in 0.4s
+2023.11.15 14:05:53 INFO  compiling root (1 scala source)
+2023.11.15 14:05:53 INFO  time: compiled root in 0.39s
+2023.11.15 14:06:08 INFO  compiling root (1 scala source)
+2023.11.15 14:06:08 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:06:08 INFO  time: compiled root in 0.45s
+2023.11.15 14:06:11 INFO  compiling root (1 scala source)
+2023.11.15 14:06:11 INFO  time: compiled root in 0.11s
+2023.11.15 14:06:20 INFO  compiling root (1 scala source)
+2023.11.15 14:06:20 INFO  time: compiled root in 0.75s
+2023.11.15 14:06:25 INFO  compiling root (1 scala source)
+2023.11.15 14:06:25 INFO  time: compiled root in 0.4s
+2023.11.15 14:06:29 INFO  compiling root (1 scala source)
+2023.11.15 14:06:29 INFO  time: compiled root in 0.39s
+2023.11.15 14:06:32 INFO  compiling root (1 scala source)
+2023.11.15 14:06:32 INFO  time: compiled root in 0.35s
+Nov 15, 2023 2:06:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1682
+Nov 15, 2023 2:06:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1684
+2023.11.15 14:06:39 INFO  compiling root (1 scala source)
+2023.11.15 14:06:39 INFO  time: compiled root in 50ms
+2023.11.15 14:06:47 INFO  compiling root (1 scala source)
+2023.11.15 14:06:47 INFO  time: compiled root in 55ms
+2023.11.15 14:06:49 INFO  compiling root (1 scala source)
+2023.11.15 14:06:49 INFO  time: compiled root in 0.47s
+2023.11.15 14:07:07 INFO  compiling root (1 scala source)
+2023.11.15 14:07:07 INFO  time: compiled root in 0.41s
+Nov 15, 2023 2:07:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1718
+2023.11.15 14:07:11 INFO  compiling root (1 scala source)
+2023.11.15 14:07:11 INFO  time: compiled root in 0.37s
+2023.11.15 14:07:45 INFO  compiling root (1 scala source)
+2023.11.15 14:07:45 INFO  time: compiled root in 0.41s
+2023.11.15 14:07:46 INFO  compiling root (1 scala source)
+2023.11.15 14:07:46 INFO  time: compiled root in 0.45s
+2023.11.15 14:07:58 INFO  compiling root (1 scala source)
+2023.11.15 14:07:58 INFO  time: compiled root in 44ms
+Nov 15, 2023 2:08:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1788
+Nov 15, 2023 2:08:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1791
+2023.11.15 14:08:02 INFO  compiling root (1 scala source)
+2023.11.15 14:08:02 INFO  time: compiled root in 0.38s
+2023.11.15 14:08:16 INFO  compiling root (1 scala source)
+2023.11.15 14:08:16 INFO  time: compiled root in 0.43s
+2023.11.15 14:08:18 INFO  compiling root (1 scala source)
+2023.11.15 14:08:18 INFO  time: compiled root in 0.41s
+Nov 15, 2023 2:08:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1827
+2023.11.15 14:08:20 INFO  compiling root (1 scala source)
+2023.11.15 14:08:20 INFO  time: compiled root in 0.66s
+2023.11.15 14:08:29 INFO  compiling root (1 scala source)
+2023.11.15 14:08:29 INFO  time: compiled root in 0.37s
+2023.11.15 14:08:49 INFO  compiling root (1 scala source)
+2023.11.15 14:08:49 INFO  time: compiled root in 0.37s
+2023.11.15 14:08:52 INFO  compiling root (1 scala source)
+2023.11.15 14:08:52 INFO  time: compiled root in 0.42s
+2023.11.15 14:08:53 INFO  compiling root (1 scala source)
+2023.11.15 14:08:53 INFO  time: compiled root in 0.12s
+2023.11.15 14:09:05 INFO  compiling root (1 scala source)
+2023.11.15 14:09:05 INFO  time: compiled root in 0.43s
+2023.11.15 14:09:08 INFO  compiling root (1 scala source)
+2023.11.15 14:09:08 INFO  time: compiled root in 0.35s
+2023.11.15 14:09:11 INFO  compiling root (1 scala source)
+2023.11.15 14:09:11 INFO  time: compiled root in 0.47s
+2023.11.15 14:10:23 INFO  compiling root (1 scala source)
+2023.11.15 14:10:23 INFO  time: compiled root in 0.45s
+2023.11.15 14:10:26 INFO  compiling root (1 scala source)
+2023.11.15 14:10:26 INFO  time: compiled root in 0.4s
+2023.11.15 14:10:33 INFO  compiling root (1 scala source)
+2023.11.15 14:10:33 INFO  time: compiled root in 0.53s
+2023.11.15 14:10:36 INFO  compiling root (1 scala source)
+2023.11.15 14:10:36 INFO  time: compiled root in 0.39s
+2023.11.15 14:11:42 INFO  compiling root (1 scala source)
+2023.11.15 14:11:42 INFO  time: compiled root in 0.59s
+2023.11.15 14:11:45 INFO  compiling root (1 scala source)
+2023.11.15 14:11:45 INFO  time: compiled root in 0.72s
+2023.11.15 14:11:50 INFO  compiling root (1 scala source)
+2023.11.15 14:11:50 INFO  time: compiled root in 0.38s
+2023.11.15 14:35:50 INFO  compiling root (1 scala source)
+2023.11.15 14:35:50 INFO  time: compiled root in 0.44s
+2023.11.15 14:36:31 INFO  compiling root (1 scala source)
+2023.11.15 14:36:31 INFO  time: compiled root in 0.45s
+2023.11.15 14:36:33 INFO  compiling root (1 scala source)
+2023.11.15 14:36:33 INFO  time: compiled root in 0.17s
+Nov 15, 2023 2:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2123
+2023.11.15 14:36:49 INFO  compiling root (1 scala source)
+2023.11.15 14:36:49 INFO  time: compiled root in 0.39s
+2023.11.15 14:36:57 INFO  compiling root (1 scala source)
+2023.11.15 14:36:57 INFO  time: compiled root in 0.41s
+2023.11.15 14:37:00 INFO  compiling root (1 scala source)
+2023.11.15 14:37:00 INFO  time: compiled root in 0.41s
+2023.11.15 14:37:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:37:02 INFO  compiling root (1 scala source)
+2023.11.15 14:37:02 INFO  time: compiled root in 0.65s
+2023.11.15 14:37:04 INFO  compiling root (1 scala source)
+2023.11.15 14:37:04 INFO  time: compiled root in 29ms
+2023.11.15 14:37:07 INFO  compiling root (1 scala source)
+2023.11.15 14:37:07 INFO  time: compiled root in 31ms
+2023.11.15 14:37:09 INFO  compiling root (1 scala source)
+2023.11.15 14:37:09 INFO  time: compiled root in 34ms
+2023.11.15 14:37:13 INFO  compiling root (1 scala source)
+2023.11.15 14:37:13 INFO  time: compiled root in 64ms
+2023.11.15 14:37:17 INFO  compiling root (1 scala source)
+2023.11.15 14:37:17 INFO  time: compiled root in 38ms
+2023.11.15 14:37:19 INFO  compiling root (1 scala source)
+2023.11.15 14:37:19 INFO  time: compiled root in 27ms
+2023.11.15 14:37:22 INFO  compiling root (1 scala source)
+2023.11.15 14:37:22 INFO  time: compiled root in 29ms
+2023.11.15 14:37:51 INFO  compiling root (1 scala source)
+2023.11.15 14:37:51 INFO  time: compiled root in 0.48s
+2023.11.15 14:37:53 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:37:53 INFO  compiling root (1 scala source)
+2023.11.15 14:37:53 INFO  time: compiled root in 0.48s
+2023.11.15 14:37:55 INFO  compiling root (1 scala source)
+2023.11.15 14:37:55 INFO  time: compiled root in 0.43s
+2023.11.15 14:38:03 INFO  compiling root (1 scala source)
+2023.11.15 14:38:03 INFO  time: compiled root in 91ms
+2023.11.15 14:38:05 INFO  compiling root (1 scala source)
+2023.11.15 14:38:05 INFO  time: compiled root in 0.12s
+Nov 15, 2023 2:38:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2336
+2023.11.15 14:38:22 INFO  compiling root (1 scala source)
+2023.11.15 14:38:22 INFO  time: compiled root in 79ms
+2023.11.15 14:38:23 INFO  compiling root (1 scala source)
+2023.11.15 14:38:23 INFO  time: compiled root in 85ms
+Nov 15, 2023 2:39:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2434
+2023.11.15 14:39:38 INFO  compiling root (1 scala source)
+2023.11.15 14:39:38 INFO  time: compiled root in 0.43s
+Nov 15, 2023 2:39:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2437
+2023.11.15 14:39:42 INFO  compiling root (1 scala source)
+2023.11.15 14:39:42 INFO  time: compiled root in 41ms
+2023.11.15 14:39:44 INFO  compiling root (1 scala source)
+2023.11.15 14:39:44 INFO  time: compiled root in 61ms
+2023.11.15 14:39:46 INFO  compiling root (1 scala source)
+2023.11.15 14:39:46 INFO  time: compiled root in 44ms
+2023.11.15 14:40:14 INFO  compiling root (1 scala source)
+2023.11.15 14:40:14 INFO  time: compiled root in 0.73s
+2023.11.15 14:40:17 INFO  compiling root (1 scala source)
+2023.11.15 14:40:17 INFO  time: compiled root in 52ms
+Nov 15, 2023 2:40:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2504
+2023.11.15 14:40:20 INFO  compiling root (1 scala source)
+2023.11.15 14:40:20 INFO  time: compiled root in 0.38s
+2023.11.15 14:40:22 INFO  compiling root (1 scala source)
+2023.11.15 14:40:22 INFO  time: compiled root in 0.23s
+2023.11.15 14:41:06 INFO  compiling root (1 scala source)
+2023.11.15 14:41:06 INFO  time: compiled root in 0.39s
+2023.11.15 14:41:10 INFO  compiling root (1 scala source)
+2023.11.15 14:41:10 INFO  time: compiled root in 45ms
+Nov 15, 2023 2:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2596
+2023.11.15 14:41:39 INFO  compiling root (1 scala source)
+2023.11.15 14:41:39 INFO  time: compiled root in 86ms
+2023.11.15 14:41:40 INFO  compiling root (1 scala source)
+2023.11.15 14:41:40 INFO  time: compiled root in 0.51s
+2023.11.15 14:42:02 INFO  compiling root (1 scala source)
+2023.11.15 14:42:02 INFO  time: compiled root in 0.4s
+2023.11.15 14:42:27 INFO  compiling root (1 scala source)
+2023.11.15 14:42:27 INFO  time: compiled root in 39ms
+2023.11.15 14:42:29 INFO  compiling root (1 scala source)
+2023.11.15 14:42:29 INFO  time: compiled root in 0.39s
+2023.11.15 14:42:56 INFO  compiling root (1 scala source)
+2023.11.15 14:42:56 INFO  time: compiled root in 0.63s
+2023.11.15 14:43:00 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:00 INFO  compiling root (1 scala source)
+2023.11.15 14:43:00 INFO  time: compiled root in 92ms
+2023.11.15 14:43:01 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:03 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:04 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:04 INFO  compiling root (1 scala source)
+2023.11.15 14:43:04 INFO  time: compiled root in 39ms
+2023.11.15 14:43:05 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:05 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:06 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:08 INFO  compiling root (1 scala source)
+2023.11.15 14:43:08 INFO  time: compiled root in 37ms
+2023.11.15 14:43:08 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:09 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:10 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:12 INFO  compiling root (1 scala source)
+2023.11.15 14:43:12 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:43:12 INFO  time: compiled root in 0.4s
+2023.11.15 14:43:13 INFO  compiling root (1 scala source)
+2023.11.15 14:43:13 INFO  time: compiled root in 0.52s
+2023.11.15 14:43:16 INFO  compiling root (1 scala source)
+2023.11.15 14:43:16 INFO  time: compiled root in 0.4s
+2023.11.15 14:43:23 INFO  compiling root (1 scala source)
+2023.11.15 14:43:23 INFO  time: compiled root in 0.41s
+2023.11.15 14:43:24 INFO  compiling root (1 scala source)
+2023.11.15 14:43:24 INFO  time: compiled root in 0.43s
+2023.11.15 14:43:28 INFO  compiling root (1 scala source)
+2023.11.15 14:43:28 INFO  time: compiled root in 0.74s
+2023.11.15 14:43:56 INFO  compiling root (1 scala source)
+2023.11.15 14:43:56 INFO  time: compiled root in 0.54s
+2023.11.15 14:44:00 INFO  compiling root (1 scala source)
+2023.11.15 14:44:00 INFO  time: compiled root in 45ms
+Nov 15, 2023 2:44:03 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1534, count -1, length 1552
+2023.11.15 14:44:03 INFO  compiling root (1 scala source)
+2023.11.15 14:44:03 INFO  time: compiled root in 48ms
+2023.11.15 14:44:09 INFO  compiling root (1 scala source)
+2023.11.15 14:44:09 INFO  time: compiled root in 54ms
+2023.11.15 14:44:11 INFO  compiling root (1 scala source)
+2023.11.15 14:44:11 INFO  time: compiled root in 48ms
+2023.11.15 14:44:14 INFO  compiling root (1 scala source)
+2023.11.15 14:44:14 INFO  time: compiled root in 0.45s
+2023.11.15 14:44:17 INFO  compiling root (1 scala source)
+2023.11.15 14:44:17 INFO  time: compiled root in 0.41s
+2023.11.15 14:45:40 INFO  compiling root (1 scala source)
+2023.11.15 14:45:40 INFO  time: compiled root in 0.43s
+2023.11.15 14:45:43 INFO  compiling root (1 scala source)
+2023.11.15 14:45:43 INFO  time: compiled root in 0.41s
+2023.11.15 14:45:46 INFO  compiling root (1 scala source)
+2023.11.15 14:45:46 INFO  time: compiled root in 0.41s
+2023.11.15 14:45:51 INFO  compiling root (1 scala source)
+2023.11.15 14:45:51 INFO  time: compiled root in 0.62s
+2023.11.15 14:45:52 INFO  compiling root (1 scala source)
+2023.11.15 14:45:52 INFO  time: compiled root in 0.15s
+2023.11.15 14:45:57 INFO  compiling root (1 scala source)
+2023.11.15 14:45:57 INFO  time: compiled root in 38ms
+2023.11.15 14:45:57 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:07 INFO  compiling root (1 scala source)
+2023.11.15 14:46:07 INFO  time: compiled root in 37ms
+2023.11.15 14:46:07 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:09 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:09 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:11 INFO  compiling root (1 scala source)
+2023.11.15 14:46:11 INFO  time: compiled root in 0.56s
+2023.11.15 14:46:12 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:27 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 14:46:28 INFO  compiling root (1 scala source)
+2023.11.15 14:46:28 INFO  time: compiled root in 0.45s
+2023.11.15 14:46:48 INFO  compiling root (1 scala source)
+2023.11.15 14:46:48 INFO  time: compiled root in 0.46s
+2023.11.15 14:46:54 INFO  compiling root (1 scala source)
+2023.11.15 14:46:54 INFO  time: compiled root in 47ms
+2023.11.15 14:46:56 INFO  compiling root (1 scala source)
+2023.11.15 14:46:56 INFO  time: compiled root in 0.43s
+Nov 15, 2023 2:47:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3152
+2023.11.15 14:47:04 INFO  compiling root (1 scala source)
+2023.11.15 14:47:04 INFO  time: compiled root in 0.53s
+2023.11.15 14:47:06 INFO  compiling root (1 scala source)
+2023.11.15 14:47:06 INFO  time: compiled root in 0.85s
+2023.11.15 14:47:12 INFO  compiling root (1 scala source)
+2023.11.15 14:47:12 INFO  time: compiled root in 0.59s
+2023.11.15 14:47:15 INFO  compiling root (1 scala source)
+2023.11.15 14:47:15 INFO  time: compiled root in 0.64s
+2023.11.15 14:47:45 INFO  compiling root (1 scala source)
+2023.11.15 14:47:45 INFO  time: compiled root in 0.47s
+2023.11.15 14:47:47 INFO  compiling root (1 scala source)
+2023.11.15 14:47:47 INFO  time: compiled root in 0.53s
+2023.11.15 14:48:15 INFO  compiling root (1 scala source)
+2023.11.15 14:48:15 INFO  time: compiled root in 0.53s
+2023.11.15 16:16:59 INFO  Started: Metals version 1.1.0 in folders '/workspaces/scala_tutorial' for client Visual Studio Code 1.84.2.
+2023.11.15 16:17:04 INFO  Attempting to connect to the build server...
+2023.11.15 16:17:04 INFO  Bloop uses /usr/local/sdkman/candidates/java/current defined at /home/codespace/.bloop/bloop.json
+2023.11.15 16:17:04 INFO  skipping build import with status 'Started'
+2023.11.15 16:17:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala_tutorial/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2023.11.15 16:17:14 INFO  Attempting to connect to the build server...
+2023.11.15 16:17:14 INFO  Bloop uses /usr/local/sdkman/candidates/java/current defined at /home/codespace/.bloop/bloop.json
+2023.11.15 16:17:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala_tutorial/project/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2023.11.15 16:17:14 INFO  time: Connected to build server in 10s
+2023.11.15 16:17:14 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.15 16:17:28 INFO  no build target found for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.11.15 16:17:28 INFO  time: Imported build in 0.19s
+2023.11.15 16:17:35 INFO  time: indexed workspace in 6.62s
+2023.11.15 16:17:37 INFO  compiling root (3 scala sources)
+2023.11.15 16:17:48 INFO  time: compiled root in 10s
+2023.11.15 16:19:57 INFO  compiling root (1 scala source)
+2023.11.15 16:19:59 INFO  time: compiled root in 2.12s
+2023.11.15 16:20:00 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:20:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:20:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:20:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:20:04 INFO  compiling root (1 scala source)
+2023.11.15 16:20:06 INFO  time: compiled root in 1.46s
+Nov 15, 2023 4:35:51 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Nov 15, 2023 4:35:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 84
+Nov 15, 2023 4:52:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+2023.11.15 16:52:08 INFO  compiling root (1 scala source)
+2023.11.15 16:52:08 INFO  time: compiled root in 0.2s
+2023.11.15 16:52:13 INFO  compiling root (1 scala source)
+2023.11.15 16:52:13 INFO  time: compiled root in 0.15s
+2023.11.15 16:52:15 INFO  compiling root (1 scala source)
+2023.11.15 16:52:15 INFO  time: compiled root in 0.15s
+2023.11.15 16:52:18 INFO  compiling root (1 scala source)
+2023.11.15 16:52:18 INFO  time: compiled root in 0.2s
+2023.11.15 16:52:20 INFO  compiling root (1 scala source)
+2023.11.15 16:52:20 INFO  time: compiled root in 0.17s
+2023.11.15 16:52:24 INFO  compiling root (1 scala source)
+2023.11.15 16:52:24 INFO  time: compiled root in 0.16s
+2023.11.15 16:52:26 INFO  compiling root (1 scala source)
+2023.11.15 16:52:26 INFO  time: compiled root in 0.31s
+2023.11.15 16:52:28 INFO  compiling root (1 scala source)
+2023.11.15 16:52:28 INFO  time: compiled root in 0.76s
+2023.11.15 16:53:03 INFO  compiling root (1 scala source)
+2023.11.15 16:53:03 INFO  time: compiled root in 0.79s
+2023.11.15 16:53:09 INFO  compiling root (1 scala source)
+2023.11.15 16:53:10 INFO  time: compiled root in 1.17s
+2023.11.15 16:53:15 INFO  compiling root (1 scala source)
+2023.11.15 16:53:15 INFO  time: compiled root in 0.92s
+2023.11.15 16:53:19 INFO  compiling root (1 scala source)
+2023.11.15 16:53:20 INFO  time: compiled root in 1.12s
+2023.11.15 16:53:35 INFO  compiling root (1 scala source)
+2023.11.15 16:53:35 INFO  time: compiled root in 0.82s
+2023.11.15 16:53:39 INFO  compiling root (1 scala source)
+2023.11.15 16:53:39 INFO  time: compiled root in 53ms
+2023.11.15 16:53:43 INFO  compiling root (1 scala source)
+2023.11.15 16:53:43 INFO  time: compiled root in 0.88s
+2023.11.15 16:53:59 INFO  compiling root (1 scala source)
+2023.11.15 16:53:59 INFO  time: compiled root in 0.92s
+2023.11.15 16:54:01 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:01 INFO  compiling root (1 scala source)
+2023.11.15 16:54:01 INFO  time: compiled root in 0.13s
+2023.11.15 16:54:01 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:02 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:03 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:04 INFO  compiling root (1 scala source)
+2023.11.15 16:54:04 INFO  time: compiled root in 0.14s
+2023.11.15 16:54:05 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:07 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:07 ERROR Failed to tokenize input for semantic tokens for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+scala.meta.tokenizers.TokenizeException: <input>:58: error: unclosed comment
+  /*
+  ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.15 16:54:07 INFO  compiling root (1 scala source)
+2023.11.15 16:54:07 INFO  time: compiled root in 51ms
+2023.11.15 16:54:08 ERROR Failed to tokenize input for semantic tokens for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+scala.meta.tokenizers.TokenizeException: <input>:58: error: unclosed comment
+  /*
+  ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.15 16:54:08 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:12 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:12 ERROR Failed to tokenize input for semantic tokens for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+scala.meta.tokenizers.TokenizeException: <input>:58: error: unclosed comment
+  /**
+  ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:70)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.15 16:54:13 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:14 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:54:15 INFO  compiling root (1 scala source)
+2023.11.15 16:54:15 INFO  time: compiled root in 0.79s
+2023.11.15 16:55:18 INFO  compiling root (1 scala source)
+2023.11.15 16:55:18 INFO  time: compiled root in 0.78s
+2023.11.15 16:55:26 INFO  compiling root (1 scala source)
+2023.11.15 16:55:26 INFO  time: compiled root in 81ms
+Nov 15, 2023 4:55:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 442
+2023.11.15 16:55:30 INFO  compiling root (1 scala source)
+2023.11.15 16:55:30 INFO  time: compiled root in 0.93s
+2023.11.15 16:55:34 INFO  compiling root (1 scala source)
+2023.11.15 16:55:34 INFO  time: compiled root in 0.97s
+2023.11.15 16:55:36 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:55:36 INFO  compiling root (1 scala source)
+2023.11.15 16:55:36 INFO  time: compiled root in 0.7s
+2023.11.15 16:55:37 INFO  compiling root (1 scala source)
+2023.11.15 16:55:37 INFO  time: compiled root in 0.32s
+2023.11.15 16:55:44 INFO  compiling root (1 scala source)
+2023.11.15 16:55:44 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:55:44 INFO  time: compiled root in 0.88s
+2023.11.15 16:55:49 INFO  compiling root (1 scala source)
+2023.11.15 16:55:49 INFO  time: compiled root in 0.61s
+Nov 15, 2023 4:55:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 515
+2023.11.15 16:55:51 INFO  compiling root (1 scala source)
+2023.11.15 16:55:51 INFO  time: compiled root in 0.92s
+2023.11.15 16:55:54 INFO  compiling root (1 scala source)
+2023.11.15 16:55:54 INFO  time: compiled root in 0.88s
+2023.11.15 16:56:00 INFO  compiling root (1 scala source)
+2023.11.15 16:56:00 INFO  time: compiled root in 0.65s
+2023.11.15 16:56:02 INFO  compiling root (1 scala source)
+2023.11.15 16:56:02 INFO  time: compiled root in 0.89s
+2023.11.15 16:56:06 INFO  compiling root (1 scala source)
+2023.11.15 16:56:06 INFO  time: compiled root in 0.69s
+2023.11.15 16:56:09 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:56:09 INFO  compiling root (1 scala source)
+2023.11.15 16:56:09 INFO  time: compiled root in 0.6s
+2023.11.15 16:56:10 INFO  compiling root (1 scala source)
+2023.11.15 16:56:10 INFO  time: compiled root in 0.28s
+2023.11.15 16:56:14 INFO  compiling root (1 scala source)
+2023.11.15 16:56:14 INFO  time: compiled root in 0.56s
+2023.11.15 16:56:23 INFO  compiling root (1 scala source)
+2023.11.15 16:56:23 INFO  time: compiled root in 0.7s
+2023.11.15 16:56:50 INFO  compiling root (1 scala source)
+2023.11.15 16:56:50 INFO  time: compiled root in 0.77s
+Nov 15, 2023 4:56:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 639
+Nov 15, 2023 4:56:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 640
+Nov 15, 2023 4:57:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 646
+2023.11.15 16:57:02 INFO  compiling root (1 scala source)
+2023.11.15 16:57:02 INFO  time: compiled root in 67ms
+2023.11.15 16:57:04 INFO  compiling root (1 scala source)
+2023.11.15 16:57:04 INFO  time: compiled root in 0.7s
+2023.11.15 16:57:07 INFO  compiling root (1 scala source)
+2023.11.15 16:57:07 INFO  time: compiled root in 0.78s
+2023.11.15 16:57:10 INFO  compiling root (1 scala source)
+2023.11.15 16:57:10 INFO  time: compiled root in 0.56s
+2023.11.15 16:57:11 INFO  compiling root (1 scala source)
+2023.11.15 16:57:11 INFO  time: compiled root in 0.26s
+2023.11.15 16:57:57 INFO  compiling root (1 scala source)
+2023.11.15 16:57:57 INFO  time: compiled root in 0.62s
+2023.11.15 16:59:15 INFO  compiling root (1 scala source)
+Nov 15, 2023 4:59:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+2023.11.15 16:59:15 INFO  time: compiled root in 0.13s
+2023.11.15 16:59:17 INFO  compiling root (1 scala source)
+2023.11.15 16:59:17 INFO  time: compiled root in 94ms
+2023.11.15 16:59:21 INFO  compiling root (1 scala source)
+2023.11.15 16:59:21 INFO  time: compiled root in 0.81s
+2023.11.15 16:59:22 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+Nov 15, 2023 4:59:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 748
+2023.11.15 16:59:23 INFO  compiling root (1 scala source)
+2023.11.15 16:59:23 INFO  time: compiled root in 0.11s
+2023.11.15 16:59:23 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:59:24 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:59:25 INFO  compiling root (1 scala source)
+2023.11.15 16:59:25 INFO  time: compiled root in 0.12s
+2023.11.15 16:59:25 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:59:29 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:59:30 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 16:59:30 INFO  compiling root (1 scala source)
+2023.11.15 16:59:30 INFO  time: compiled root in 0.6s
+2023.11.15 16:59:31 INFO  compiling root (1 scala source)
+2023.11.15 16:59:31 INFO  time: compiled root in 0.35s
+2023.11.15 16:59:33 INFO  compiling root (1 scala source)
+2023.11.15 16:59:34 INFO  time: compiled root in 1.01s
+2023.11.15 17:00:08 INFO  compiling root (1 scala source)
+2023.11.15 17:00:08 INFO  time: compiled root in 0.63s
+2023.11.15 17:00:18 INFO  compiling root (1 scala source)
+2023.11.15 17:00:18 INFO  time: compiled root in 0.61s
+2023.11.15 17:00:46 INFO  compiling root (1 scala source)
+2023.11.15 17:00:46 INFO  time: compiled root in 0.81s
+2023.11.15 17:00:52 INFO  compiling root (1 scala source)
+2023.11.15 17:00:52 INFO  time: compiled root in 0.62s
+2023.11.15 17:01:00 INFO  compiling root (1 scala source)
+2023.11.15 17:01:00 INFO  time: compiled root in 47ms
+2023.11.15 17:01:02 INFO  compiling root (1 scala source)
+2023.11.15 17:01:02 INFO  time: compiled root in 0.59s
+2023.11.15 17:01:07 INFO  compiling root (1 scala source)
+2023.11.15 17:01:07 INFO  time: compiled root in 0.59s
+2023.11.15 17:01:13 INFO  compiling root (1 scala source)
+2023.11.15 17:01:13 INFO  time: compiled root in 0.9s
+2023.11.15 17:01:15 INFO  compiling root (1 scala source)
+2023.11.15 17:01:15 INFO  time: compiled root in 0.28s
+2023.11.15 17:01:20 INFO  compiling root (1 scala source)
+2023.11.15 17:01:20 INFO  time: compiled root in 0.69s
+2023.11.15 17:01:26 INFO  compiling root (1 scala source)
+2023.11.15 17:01:26 INFO  time: compiled root in 0.58s
+2023.11.15 17:01:38 INFO  compiling root (1 scala source)
+2023.11.15 17:01:38 INFO  time: compiled root in 0.57s
+Nov 15, 2023 5:02:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1031
+2023.11.15 17:02:18 INFO  compiling root (1 scala source)
+2023.11.15 17:02:18 INFO  time: compiled root in 0.58s
+2023.11.15 17:02:25 INFO  compiling root (1 scala source)
+2023.11.15 17:02:25 INFO  time: compiled root in 0.62s
+2023.11.15 17:02:27 INFO  compiling root (1 scala source)
+2023.11.15 17:02:27 INFO  time: compiled root in 0.65s
+2023.11.15 17:02:34 INFO  compiling root (1 scala source)
+2023.11.15 17:02:34 INFO  time: compiled root in 0.89s
+2023.11.15 17:02:38 INFO  compiling root (1 scala source)
+2023.11.15 17:02:38 INFO  time: compiled root in 0.53s
+2023.11.15 17:02:43 INFO  compiling root (1 scala source)
+2023.11.15 17:02:43 INFO  time: compiled root in 0.88s
+2023.11.15 17:02:45 INFO  compiling root (1 scala source)
+2023.11.15 17:02:45 INFO  time: compiled root in 0.25s
+2023.11.15 17:03:25 INFO  compiling root (1 scala source)
+2023.11.15 17:03:25 INFO  time: compiled root in 0.71s
+2023.11.15 17:03:27 INFO  compiling root (1 scala source)
+2023.11.15 17:03:27 INFO  time: compiled root in 0.71s
+2023.11.15 17:03:33 INFO  compiling root (1 scala source)
+2023.11.15 17:03:33 INFO  time: compiled root in 0.6s
+2023.11.15 17:03:37 INFO  compiling root (1 scala source)
+2023.11.15 17:03:37 INFO  time: compiled root in 0.56s
+2023.11.15 17:03:45 INFO  compiling root (1 scala source)
+2023.11.15 17:03:45 INFO  time: compiled root in 94ms
+2023.11.15 17:03:47 INFO  compiling root (1 scala source)
+2023.11.15 17:03:48 INFO  time: compiled root in 1.79s
+2023.11.15 17:03:48 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:03:49 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:03:51 INFO  compiling root (1 scala source)
+2023.11.15 17:03:52 INFO  time: compiled root in 1.03s
+2023.11.15 17:05:37 INFO  compiling root (1 scala source)
+2023.11.15 17:05:37 INFO  time: compiled root in 0.85s
+2023.11.15 17:05:41 INFO  compiling root (1 scala source)
+2023.11.15 17:05:41 INFO  time: compiled root in 0.84s
+2023.11.15 17:05:45 INFO  compiling root (1 scala source)
+2023.11.15 17:05:45 INFO  time: compiled root in 0.93s
+2023.11.15 17:05:46 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:05:47 INFO  compiling root (1 scala source)
+2023.11.15 17:05:47 INFO  time: compiled root in 0.38s
+2023.11.15 17:06:08 INFO  compiling root (1 scala source)
+2023.11.15 17:06:08 INFO  time: compiled root in 0.74s
+2023.11.15 17:06:12 INFO  compiling root (1 scala source)
+2023.11.15 17:06:13 INFO  time: compiled root in 1.1s
+2023.11.15 17:06:13 INFO  compiling root (1 scala source)
+2023.11.15 17:06:14 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:06:13 INFO  time: compiled root in 0.31s
+2023.11.15 17:06:47 INFO  compiling root (1 scala source)
+2023.11.15 17:06:47 INFO  time: compiled root in 0.72s
+2023.11.15 17:07:24 INFO  compiling root (1 scala source)
+2023.11.15 17:07:24 INFO  time: compiled root in 0.76s
+2023.11.15 17:07:49 INFO  compiling root (1 scala source)
+2023.11.15 17:07:49 INFO  time: compiled root in 0.82s
+2023.11.15 17:07:53 INFO  compiling root (1 scala source)
+2023.11.15 17:07:53 INFO  time: compiled root in 0.77s
+Nov 15, 2023 5:08:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1358
+2023.11.15 17:09:04 INFO  compiling root (1 scala source)
+2023.11.15 17:09:04 INFO  time: compiled root in 0.63s
+Nov 15, 2023 5:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1377
+2023.11.15 17:09:08 INFO  compiling root (1 scala source)
+2023.11.15 17:09:09 INFO  time: compiled root in 1.14s
+Nov 15, 2023 5:09:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1392
+2023.11.15 17:09:29 INFO  compiling root (1 scala source)
+2023.11.15 17:09:29 INFO  time: compiled root in 0.67s
+2023.11.15 17:10:31 INFO  compiling root (1 scala source)
+Nov 15, 2023 5:10:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1430
+2023.11.15 17:10:33 INFO  time: compiled root in 1.67s
+2023.11.15 17:10:38 INFO  compiling root (1 scala source)
+2023.11.15 17:10:38 INFO  time: compiled root in 0.75s
+2023.11.15 17:10:44 INFO  compiling root (1 scala source)
+2023.11.15 17:10:44 INFO  time: compiled root in 42ms
+2023.11.15 17:10:47 INFO  compiling root (1 scala source)
+2023.11.15 17:10:47 INFO  time: compiled root in 0.77s
+2023.11.15 17:11:58 INFO  compiling root (1 scala source)
+2023.11.15 17:11:58 INFO  time: compiled root in 0.66s
+2023.11.15 17:12:01 INFO  compiling root (1 scala source)
+2023.11.15 17:12:01 INFO  time: compiled root in 0.75s
+2023.11.15 17:12:02 INFO  compiling root (1 scala source)
+2023.11.15 17:12:02 INFO  time: compiled root in 0.39s
+2023.11.15 17:12:03 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:12:03 INFO  compiling root (1 scala source)
+2023.11.15 17:12:03 INFO  time: compiled root in 0.32s
+2023.11.15 17:12:08 INFO  compiling root (1 scala source)
+2023.11.15 17:12:09 INFO  time: compiled root in 1.37s
+2023.11.15 17:12:09 INFO  compiling root (1 scala source)
+2023.11.15 17:12:10 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:12:10 INFO  time: compiled root in 0.67s
+2023.11.15 17:24:50 INFO  compiling root (1 scala source)
+2023.11.15 17:24:50 INFO  time: compiled root in 0.72s
+2023.11.15 17:24:51 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:24:52 INFO  compiling root (1 scala source)
+2023.11.15 17:24:52 INFO  time: compiled root in 0.27s
+Nov 15, 2023 5:25:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1572
+2023.11.15 17:25:03 INFO  compiling root (1 scala source)
+2023.11.15 17:25:05 INFO  time: compiled root in 1.37s
+2023.11.15 17:25:06 WARN  Could not load snapshot text for /workspaces/scala_tutorial/src/main/scala/com/scala/tutorial/ObjectOrientation.scala
+2023.11.15 17:25:06 INFO  compiling root (1 scala source)
+2023.11.15 17:25:06 INFO  time: compiled root in 0.79s
+2023.11.15 17:25:33 INFO  compiling root (1 scala source)
+2023.11.15 17:25:33 INFO  time: compiled root in 0.72s
+2023.11.15 17:25:39 INFO  compiling root (1 scala source)
+2023.11.15 17:25:39 INFO  time: compiled root in 0.72s
+Nov 15, 2023 5:32:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
